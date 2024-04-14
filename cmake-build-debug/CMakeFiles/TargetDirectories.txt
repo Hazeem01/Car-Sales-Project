@@ -1,0 +1,3 @@
+C:/Users/aoa237/AppData/Local/Development/Year1/ITP/CarSales/cmake-build-debug/CMakeFiles/CarSales.dir
+C:/Users/aoa237/AppData/Local/Development/Year1/ITP/CarSales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aoa237/AppData/Local/Development/Year1/ITP/CarSales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
